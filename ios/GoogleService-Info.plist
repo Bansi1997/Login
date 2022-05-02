@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>976423702375-v11rtnj4ii507sevfophd0h31kas7j9d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.976423702375-v11rtnj4ii507sevfophd0h31kas7j9d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC0y_WtOO23LZJoOZO66j28EEZQ6CxzhC8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>976423702375</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.abc.LoginApp</string>
+	<key>PROJECT_ID</key>
+	<string>reactnativefirebase-9f9ec</string>
+	<key>STORAGE_BUCKET</key>
+	<string>reactnativefirebase-9f9ec.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:976423702375:ios:a16faf8face038dbece9c2</string>
+	<key>DATABASE_URL</key>
+	<string>https://reactnativefirebase-9f9ec-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
